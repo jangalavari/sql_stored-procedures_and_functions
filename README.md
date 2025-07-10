@@ -91,5 +91,3 @@ FROM employees;
 - Learn to use parameters and basic control logic.
 
 ---
-
-_You can copy these files into your GitHub repository._
